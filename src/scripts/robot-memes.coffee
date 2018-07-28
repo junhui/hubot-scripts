@@ -37,5 +37,5 @@ robot_memes = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /(.*)(robot|robawt)/i, (msg) ->
-	    msg.send msg.random robot_memes
+	robot.respond /(.*)(robot|robawt)/i, (msg) ->
+		msg.send msg.random robot_memes

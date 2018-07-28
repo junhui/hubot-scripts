@@ -24,9 +24,9 @@ _          	= require("underscore")
 
 StaticQuotes = [
 	"A severed foot is the ultimate stocking stuffer.",
-    "I hope the next time I move I get a real easy phone number, something that's real easy to remember. Something like two two two two two two two. I would say \"Sweet.\" And then people would say, \"Mitch, how do I get a hold of you?\" I'd say, \"Just press two for a while and when I answer, you will know you have pressed two enough.",
-    "My friend asked me if I wanted a frozen banana, I said \"No, but I want a regular banana later, so ... yeah\".",
-    "On a traffic light green means 'go' and yellow means 'yield', but on a banana it's just the opposite. Green means 'hold on,' yellow means 'go ahead,' and red means, 'where did you get that banana ?'",
+	"I hope the next time I move I get a real easy phone number, something that's real easy to remember. Something like two two two two two two two. I would say \"Sweet.\" And then people would say, \"Mitch, how do I get a hold of you?\" I'd say, \"Just press two for a while and when I answer, you will know you have pressed two enough.",
+	"My friend asked me if I wanted a frozen banana, I said \"No, but I want a regular banana later, so ... yeah\".",
+	"On a traffic light green means 'go' and yellow means 'yield', but on a banana it's just the opposite. Green means 'hold on,' yellow means 'go ahead,' and red means, 'where did you get that banana ?'",
 	"I'm against picketing, but I don't know how to show it.",
 	"I think Bigfoot is blurry, that's the problem. It's not the photographer's fault. Bigfoot is blurry, and that's extra scary to me. There's a large, out-of-focus monster roaming the countryside. Run, he's fuzzy, get out of here.",
 	"One time, this guy handed me a picture of him, he said,\"Here's a picture of me when I was younger.\" Every picture is of you when you were younger. ",
@@ -42,7 +42,7 @@ StaticQuotes = [
 	"A burrito is a sleeping bag for ground beef.",
 	"Here's a thought for sweat shop owners: Air Conditioning. Problem solved.",
 	"I saw a sheet lying on the floor, it must have been a ghost that had passed out... So I kicked it.",
-    "The Kit-Kat candy bar has the name 'Kit-Kat' imprinted into the chocolate. That robs you of chocolate!"]
+	"The Kit-Kat candy bar has the name 'Kit-Kat' imprinted into the chocolate. That robs you of chocolate!"]
 
 module.exports = (robot) ->
 	
